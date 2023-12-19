@@ -1,0 +1,34 @@
+C:\Users\MrSolak\Desktop\Auto Clicker\AutoClicker\AutoClicker\bin\Release\AutoClicker.exe.config
+C:\Users\MrSolak\Desktop\Auto Clicker\AutoClicker\AutoClicker\bin\Release\AutoClicker.exe.manifest
+C:\Users\MrSolak\Desktop\Auto Clicker\AutoClicker\AutoClicker\bin\Release\AutoClicker.application
+C:\Users\MrSolak\Desktop\Auto Clicker\AutoClicker\AutoClicker\bin\Release\AutoClicker.exe
+C:\Users\MrSolak\Desktop\Auto Clicker\AutoClicker\AutoClicker\bin\Release\AutoClicker.pdb
+C:\Users\MrSolak\Desktop\Auto Clicker\AutoClicker\AutoClicker\bin\Release\Gma.System.MouseKeyHook.dll
+C:\Users\MrSolak\Desktop\Auto Clicker\AutoClicker\AutoClicker\obj\Release\AutoClicker.csproj.AssemblyReference.cache
+C:\Users\MrSolak\Desktop\Auto Clicker\AutoClicker\AutoClicker\obj\Release\AutoClicker.csproj.SuggestedBindingRedirects.cache
+C:\Users\MrSolak\Desktop\Auto Clicker\AutoClicker\AutoClicker\obj\Release\AutoClicker.Form1.resources
+C:\Users\MrSolak\Desktop\Auto Clicker\AutoClicker\AutoClicker\obj\Release\AutoClicker.Properties.Resources.resources
+C:\Users\MrSolak\Desktop\Auto Clicker\AutoClicker\AutoClicker\obj\Release\AutoClicker.csproj.GenerateResource.cache
+C:\Users\MrSolak\Desktop\Auto Clicker\AutoClicker\AutoClicker\obj\Release\AutoClicker.csproj.CoreCompileInputs.cache
+C:\Users\MrSolak\Desktop\Auto Clicker\AutoClicker\AutoClicker\obj\Release\AutoClicker.exe.manifest
+C:\Users\MrSolak\Desktop\Auto Clicker\AutoClicker\AutoClicker\obj\Release\AutoClicker.application
+C:\Users\MrSolak\Desktop\Auto Clicker\AutoClicker\AutoClicker\obj\Release\AutoClicker.csproj.CopyComplete
+C:\Users\MrSolak\Desktop\Auto Clicker\AutoClicker\AutoClicker\obj\Release\AutoClicker.exe
+C:\Users\MrSolak\Desktop\Auto Clicker\AutoClicker\AutoClicker\obj\Release\AutoClicker.pdb
+C:\Users\MrSolak\Desktop\AutoClicker\AutoClicker\bin\Release\AutoClicker.exe.config
+C:\Users\MrSolak\Desktop\AutoClicker\AutoClicker\bin\Release\AutoClicker.exe.manifest
+C:\Users\MrSolak\Desktop\AutoClicker\AutoClicker\bin\Release\AutoClicker.application
+C:\Users\MrSolak\Desktop\AutoClicker\AutoClicker\bin\Release\AutoClicker.exe
+C:\Users\MrSolak\Desktop\AutoClicker\AutoClicker\bin\Release\AutoClicker.pdb
+C:\Users\MrSolak\Desktop\AutoClicker\AutoClicker\bin\Release\Gma.System.MouseKeyHook.dll
+C:\Users\MrSolak\Desktop\AutoClicker\AutoClicker\obj\Release\AutoClicker.csproj.AssemblyReference.cache
+C:\Users\MrSolak\Desktop\AutoClicker\AutoClicker\obj\Release\AutoClicker.csproj.SuggestedBindingRedirects.cache
+C:\Users\MrSolak\Desktop\AutoClicker\AutoClicker\obj\Release\AutoClicker.Form1.resources
+C:\Users\MrSolak\Desktop\AutoClicker\AutoClicker\obj\Release\AutoClicker.Properties.Resources.resources
+C:\Users\MrSolak\Desktop\AutoClicker\AutoClicker\obj\Release\AutoClicker.csproj.GenerateResource.cache
+C:\Users\MrSolak\Desktop\AutoClicker\AutoClicker\obj\Release\AutoClicker.csproj.CoreCompileInputs.cache
+C:\Users\MrSolak\Desktop\AutoClicker\AutoClicker\obj\Release\AutoClicker.exe.manifest
+C:\Users\MrSolak\Desktop\AutoClicker\AutoClicker\obj\Release\AutoClicker.application
+C:\Users\MrSolak\Desktop\AutoClicker\AutoClicker\obj\Release\AutoClicker.csproj.CopyComplete
+C:\Users\MrSolak\Desktop\AutoClicker\AutoClicker\obj\Release\AutoClicker.exe
+C:\Users\MrSolak\Desktop\AutoClicker\AutoClicker\obj\Release\AutoClicker.pdb
